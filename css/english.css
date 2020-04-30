@@ -1,0 +1,9 @@
+.title {
+  font: normal normal normal 80px/1.2em 'Noticia Text', serif;
+  color: #FFFFFF;
+}
+
+.course {
+  border: double;
+  padding: 10px;
+}

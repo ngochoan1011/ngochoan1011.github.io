@@ -1,0 +1,109 @@
+a:link {
+	TEXT-DECORATION: none;
+}
+a:visited {
+	TEXT-DECORATION: none;
+}
+a:hover {
+	TEXT-DECORATION: underline; color: green;
+}
+
+.languagePoints {
+	FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Arial; 
+}
+
+
+
+.lessonText {	
+	 FONT-SIZE: 15pt; COLOR: black; FONT-FAMILY: Arial; 
+}
+
+.bluetext {
+	FONT-SIZE: 12pt; COLOR: navy; FONT-FAMILY: Arial
+}
+.whitetext {
+	FONT-SIZE: 12pt; COLOR: white; FONT-FAMILY: Arial
+}
+.blacktext {
+	FONT-SIZE: 12px; COLOR: black; FONT-FAMILY: Arial
+}
+A.black_link {
+	FONT-SIZE: 10pt; FONT-FAMILY: Arial;
+}
+A.black_link:hover {
+	FONT-SIZE: 10pt; COLOR: dimgray; FONT-FAMILY: Arial;
+}
+.nopadding {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 10pt; PADDING-BOTTOM: 0px; MARGIN: 0px; COLOR: black; PADDING-TOP: 0px; FONT-FAMILY: Arial
+}
+A.white_link {
+	FONT-SIZE: 7pt; COLOR: white; FONT-FAMILY: Arial;
+}
+A.white_link:hover {
+	FONT-SIZE: 7pt; COLOR: white; FONT-FAMILY: Arial;
+}
+H1 {
+	FONT-SIZE: 14pt; COLOR: #000000; FONT-FAMILY: Arial
+}
+.blind {
+	 COLOR: black; 
+}
+.sep {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; COLOR: #ffffff; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+}
+.titles {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #ffffff; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+}
+.maintext {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; COLOR: #000000; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; 
+}
+.links {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; COLOR: #ffffff; FONT-STYLE: normal; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; 
+	
+}
+
+.headline{
+	font-family:verdana, arial;
+	color:black;
+	font-size:9pt;
+}
+
+.news{
+	font-family:arial;
+}
+.bot{
+	color:#203E74;
+	font-size:7pt;
+	font-family:Verdana;
+	font-weight:bold;
+}
+
+.message{
+	color:#203E74;
+	font-size:10pt;
+	font-family:Verdana;
+	font-weight:bold;
+}
+
+.copy{
+	font-size:7pt;
+	color:#203E74;
+}
+
+.login{
+	color: black; 
+	font-size: 7pt; 
+	font-family: verdana;
+}
+
+.textSentences{
+	font-size: 12pt; 
+	font-family: verdana;
+}
+
+
+	A.DataA {background:#006633;color:white;font-size:12px
+	}
+	A.DataB {background:brown;color:white;font-size:12px}
+	TR.DataA {background:white;color:black}
+	TR.DataB {background:#EEEEEE;color:black}

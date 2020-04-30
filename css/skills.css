@@ -1,0 +1,13 @@
+.title {
+  font: normal normal normal 80px/1.2em 'Noticia Text', serif;
+  color: #FFFFFF;
+}
+
+.small-box {
+  height: 50%;
+  width: 50%;
+}
+
+.skill-content {
+  padding-bottom: 20px;
+}
